@@ -1,0 +1,75 @@
+# English (United States) translations for Gemini Plugin.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Gemini Plugin project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-08 16:00+0000\n"
+"PO-Revision-Date: 2024-12-08 16:00+0000\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"Language-Team: English\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Manual\n"
+
+# API Key configuration
+msgid "Configure API Key"
+msgstr "Configure API Key"
+
+msgid "Paste your key here: {} setkey AIzaSy..."
+msgstr "Paste your key here: {} setkey AIzaSy..."
+
+msgid "Save Key: {}..."
+msgstr "Save Key: {}..."
+
+msgid "Press Enter to confirm and save."
+msgstr "Press Enter to confirm and save."
+
+# Model selection
+msgid " (Current)"
+msgstr " (Current)"
+
+msgid "Fast and lightweight (Recommended)"
+msgstr "Fast and lightweight (Recommended)"
+
+msgid "Better balance between quality and speed"
+msgstr "Better balance between quality and speed"
+
+msgid "Smarter with better reasoning (Slow)"
+msgstr "Smarter with better reasoning (Slow)"
+
+# Validation messages
+msgid "⚠️ Missing Google API Key"
+msgstr "⚠️ Missing Google API Key"
+
+msgid "Press Enter to write the configuration command"
+msgstr "Press Enter to write the configuration command"
+
+msgid "⚠️ Select a model"
+msgstr "⚠️ Select a model"
+
+msgid "Press Enter to see the list of models"
+msgstr "Press Enter to see the list of models"
+
+# Query prompts
+msgid "Ask Gemini"
+msgstr "Ask Gemini"
+
+msgid "Write your query with || at the end to get the response..."
+msgstr "Write your query with || at the end to get the response..."
+
+# API response
+msgid "Press Enter to copy all"
+msgstr "Press Enter to copy all"
+
+# Error messages
+msgid "Error"
+msgstr "Error"
+
+msgid "Error opening notepad: {}"
+msgstr "Error opening notepad: {}"

@@ -1,0 +1,12 @@
+{
+    "ID": "b852745d-e7e3-47b0-b026-5077f19829a6",
+    "ActionKeyword": "ai",
+    "Name": "AI Assistant for Gemini",
+    "Description": "Quick AI queries using Google's Gemini API",
+    "Author": "Maikel García",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Axforzi/flow-gemini-assistant",
+    "IcoPath": "assets/favicon.ico",
+    "ExecuteFileName": "main.py"
+}

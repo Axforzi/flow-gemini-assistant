@@ -1,0 +1,75 @@
+# Spanish (Spain) translations for Gemini Plugin.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Gemini Plugin project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-08 16:00+0000\n"
+"PO-Revision-Date: 2024-12-08 16:00+0000\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"Language-Team: Spanish\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Manual\n"
+
+# API Key configuration
+msgid "Configure API Key"
+msgstr "Configurar API Key"
+
+msgid "Paste your key here: {} setkey AIzaSy..."
+msgstr "Pega tu clave aquí: {} setkey AIzaSy..."
+
+msgid "Save Key: {}..."
+msgstr "Guardar Key: {}..."
+
+msgid "Press Enter to confirm and save."
+msgstr "Presiona Enter para confirmar y guardar."
+
+# Model selection
+msgid " (Current)"
+msgstr " (Actual)"
+
+msgid "Fast and lightweight (Recommended)"
+msgstr "Rápido y ligero (Recomendado)"
+
+msgid "Better balance between quality and speed"
+msgstr "Mejor equilibrio entre calidad y velocidad"
+
+msgid "Smarter with better reasoning (Slow)"
+msgstr "Más inteligente y mejor razonamiento (Lento)"
+
+# Validation messages
+msgid "⚠️ Missing Google API Key"
+msgstr "⚠️ Falta la API Key de Google"
+
+msgid "Press Enter to write the configuration command"
+msgstr "Presiona Enter para escribir el comando de configuración"
+
+msgid "⚠️ Select a model"
+msgstr "⚠️ Selecciona un modelo"
+
+msgid "Press Enter to see the list of models"
+msgstr "Presiona Enter para ver la lista de modelos"
+
+# Query prompts
+msgid "Ask Gemini"
+msgstr "Pregunta a Gemini"
+
+msgid "Write your query with || at the end to get the response..."
+msgstr "Escribe tu consulta con || al final para obtener la respuesta..."
+
+# API response
+msgid "Press Enter to copy all"
+msgstr "Presiona Enter para copiar todo"
+
+# Error messages
+msgid "Error"
+msgstr "Error"
+
+msgid "Error opening notepad: {}"
+msgstr "Error al abrir bloc de notas: {}"
