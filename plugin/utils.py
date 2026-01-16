@@ -58,8 +58,7 @@ def open_in_notepad(text, query):
             os.startfile(path)
             
         except Exception as e:
-            os.system(f'echo Error al abrir bloc de notas: {str(e)} | clip')
+            subprocess.run(['clip.exe'], input=f'Error al abrir bloc de notas: {str(e)}'.encode('utf-8'))
 
 def copy_to_clipboard(text):
-    cmd = 'echo '+text.strip()+'|clip'
-    subprocess.check_call(cmd, shell=True)
+    subprocess.run(['clip.exe'], input=text.strip().encode('utf-8'))
